@@ -1501,7 +1501,7 @@ var kanaM = {
     vName: "kanaM",
     baseClass: ["Nohr Prince"],
     firstParent: corrinF,
-    secondParent: ["-", "Gunter", "Jakob", "Kaze", "Silas", "Shura", "Izana", "Arthur", "Odin", "Niles", "Laslow", "Benny", "Leo", "Keaton", "Xander", "Subaki", "Saizo", "Azama", "Hayato", "Hinata", "Takumi", "Kaden", "Ryoma", "Yukimura", "Fuga", "Siegbert", "Forrest", "Ignatius", "Percy", "Dwyer", "Shigure", "Shiro", "Kiragi", "Asugi", "Hisame", "Flora"],
+    secondParent: ["-", "Gunter", "Jakob", "Kaze", "Silas", "Shura", "Izana", "Arthur", "Odin", "Niles", "Laslow", "Benny", "Leo", "Keaton", "Xander", "Subaki", "Saizo", "Azama", "Hayato", "Hinata", "Takumi", "Kaden", "Ryoma", "Yukimura", "Fuga", "Siegbert", "Forrest", "Ignatius", "Percy", "Dwyer", "Shigure", "Shiro", "Kiragi", "Asugi", "Hisame", "Flora", "Felicia", "Azura", "Mozu", "Elise", "Effie", "Nyx", "Camilla", "Selena", "Beruka", "Peri", "Charlotte", "Flora", "Rinkah", "Sakura", "Hana", "Hinoka", "Orochi", "Setsuna", "Oboro", "Kagero", "Reina", "Scarlet", "Anna", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat"],
     bff: ["Siegbert", "Percy", "Shiro"],
     sRank: ["Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat"],
     baseHPGR: 30,
