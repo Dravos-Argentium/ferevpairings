@@ -1462,7 +1462,7 @@ var kanaF = {
     vName: "kanaF",
     baseClass: ["Nohr Princess"],
     firstParent: corrinM,
-    secondParent: ["-", "Felicia", "Azura", "Mozu", "Elise", "Effie", "Nyx", "Camilla", "Selena", "Beruka", "Peri", "Charlotte", "Flora", "Rinkah", "Sakura", "Hana", "Hinoka", "Orochi", "Setsuna", "Oboro", "Kagero", "Reina", "Scarlet", "Anna", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat"],
+    secondParent: ["-", "Felicia", "Azura", "Mozu", "Elise", "Effie", "Nyx", "Camilla", "Selena", "Beruka", "Peri", "Charlotte", "Flora", "Rinkah", "Sakura", "Hana", "Hinoka", "Orochi", "Setsuna", "Oboro", "Kagero", "Reina", "Scarlet", "Anna", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat", "Jakob", "Silas", "Kaze", "Shura", "Ryoma", "Takumi", "Saizo", "Azama", "Hinata", "Subaki", "Hayato", "Kaden", "Xander", "Leo", "Laslow", "Odin", "Niles", "Arthur", "Benny", "Keaton", "Gunter", "Yukimura", "Izana", "Fuga"],
     bff: ["Midori", "Velouria", "Selkie", "Mitama"],
     sRank: ["Shigure", "Dwyer", "Siegbert", "Forrest", "Ignatius", "Percy", "Shiro", "Kiragi", "Asugi", "Hisame"],
     baseHPGR: 30,
