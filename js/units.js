@@ -1462,7 +1462,7 @@ var kanaF = {
     vName: "kanaF",
     baseClass: ["Nohr Princess"],
     firstParent: corrinM,
-    secondParent: ["-", "Felicia", "Azura", "Mozu", "Elise", "Effie", "Nyx", "Camilla", "Selena", "Beruka", "Peri", "Charlotte", "Flora", "Rinkah", "Sakura", "Hana", "Hinoka", "Orochi", "Setsuna", "Oboro", "Kagero", "Reina", "Scarlet", "Anna", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat", "Jakob", "Silas", "Kaze", "Shura", "Ryoma", "Takumi", "Saizo", "Azama", "Hinata", "Subaki", "Hayato", "Kaden", "Xander", "Leo", "Laslow", "Odin", "Niles", "Arthur", "Benny", "Keaton", "Gunter", "Yukimura", "Izana", "Fuga"],
+    secondParent: ["-", "Felicia", "Azura", "Mozu", "Elise", "Effie", "Nyx", "Camilla", "Selena", "Beruka", "Peri", "Charlotte", "Flora", "Rinkah", "Sakura", "Hana", "Hinoka", "Orochi", "Setsuna", "Oboro", "Kagero", "Reina", "Scarlet", "Anna", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat"],
     bff: ["Midori", "Velouria", "Selkie", "Mitama"],
     sRank: ["Shigure", "Dwyer", "Siegbert", "Forrest", "Ignatius", "Percy", "Shiro", "Kiragi", "Asugi", "Hisame"],
     baseHPGR: 30,
@@ -1501,7 +1501,7 @@ var kanaM = {
     vName: "kanaM",
     baseClass: ["Nohr Prince"],
     firstParent: corrinF,
-    secondParent: ["-", "Gunter", "Jakob", "Kaze", "Silas", "Shura", "Izana", "Arthur", "Odin", "Niles", "Laslow", "Benny", "Leo", "Keaton", "Xander", "Subaki", "Saizo", "Azama", "Hayato", "Hinata", "Takumi", "Kaden", "Ryoma", "Yukimura", "Fuga", "Siegbert", "Forrest", "Ignatius", "Percy", "Dwyer", "Shigure", "Shiro", "Kiragi", "Asugi", "Hisame", "Flora", "Reina", "Scarlet", "Anna", "Selkie", "Mitama", "Caeldori", "Rhajat" "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Elise", "Effie", "Nyx", "Camilla", "Selena", "Beruka", "Peri", "Charlotte", "Rinkah", "Sakura", "Hana", "Hinoka", "Orochi", "Setsuna", "Oboro", "Kagero",],
+    secondParent: ["-", "Gunter", "Jakob", "Kaze", "Silas", "Shura", "Izana", "Arthur", "Odin", "Niles", "Laslow", "Benny", "Leo", "Keaton", "Xander", "Subaki", "Saizo", "Azama", "Hayato", "Hinata", "Takumi", "Kaden", "Ryoma", "Yukimura", "Fuga", "Siegbert", "Forrest", "Ignatius", "Percy", "Dwyer", "Shigure", "Shiro", "Kiragi", "Asugi", "Hisame"],
     bff: ["Siegbert", "Percy", "Shiro"],
     sRank: ["Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat"],
     baseHPGR: 30,
@@ -1541,7 +1541,7 @@ var shigure = {
     vName: "shigure",
     baseClass: ["Sky Knight", "Troubadour"],
     firstParent: azura,
-    secondParent: ["-", "Arthur", "Azama", "Benny", "Corrin (M)", "Hayato", "Hinata", "Jakob", "Kaden", "Kaze", "Keaton", "Laslow", "Leo", "Niles", "Odin", "Ryoma", "Saizo", "Silas", "Subaki", "Takumi", "Xander", "Corrin (F)", "Gunter", "Jakob", "Kaze", "Silas", "Shura", "Izana", "Fuga", "Kana (M)", "Dwyer", "Shiro", "Kiragi", "Asugi", "Hisame", "Siegbert", "Forrest", "Ignatius", "Percy", "Flora", "Reina", "Scarlet", "Anna", "Kana(F)", "Selkie", "Mitama", "Caeldori", "Rhajat", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Elise", "Effie", "Nyx", "Camilla", "Selena", "Beruka", "Peri", "Charlotte", "Rinkah", "Sakura", "Hana", "Hinoka", "Orochi", "Setsuna", "Oboro", "Kagero"],
+    secondParent: ["-", "Arthur", "Azama", "Benny", "Corrin (M)", "Hayato", "Hinata", "Jakob", "Kaden", "Kaze", "Keaton", "Laslow", "Leo", "Niles", "Odin", "Ryoma", "Saizo", "Silas", "Subaki", "Takumi", "Xander"],
     bff: ["Forrest", "Hisame"],
     sRank: ["Corrin (F)", "Kana (F)", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Selkie", "Mitama", "Caeldori", "Rhajat"],
     baseHPGR: 35,
@@ -2351,4 +2351,3 @@ function getGRBaseArr(unit) {
 function getGRArrU(unit) {
     return [unit.hpGR, unit.strGR, unit.magGR, unit.sklGR, unit.spdGR, unit.lckGR, unit.defGR, unit.resGR];
 }
-
