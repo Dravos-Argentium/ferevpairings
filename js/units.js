@@ -1701,7 +1701,7 @@ var siegbert = {
     vName: "siegbert",
     baseClass: ["Cavalier", "Wyvern Rider"],
     firstParent: xander,
-    secondParent: ["-", "Azura", "Beruka", "Charlotte", "Corrin (F)", "Effie", "Felicia", "Hinoka", "Mozu", "Nyx", "Peri", "Sakura", "Selena", "Corrin (M)", "Gunter", "Jakob", "Kaze", "Silas", "Shura", "Izana", "Fuga", "Arthur", "Odin", "Niles", "Laslow", "Benny", "Leo", "Keaton", "Rinkah", "Hana", "Orochi", "Setsuna", "Oboro", "Kagero", "Subaki", "Saizo", "Azama", "Hayato", "Hinata", "Takumi", "Kaden", "Ryoma", "Yukimura"],
+    secondParent: ["-", "Azura", "Beruka", "Charlotte", "Corrin (F)", "Effie", "Felicia", "Hinoka", "Mozu", "Nyx", "Peri", "Sakura", "Selena", "Corrin (M)", "Gunter", "Jakob", "Kaze", "Silas", "Shura", "Izana", "Fuga", "Arthur", "Odin", "Niles", "Laslow", "Benny", "Leo", "Keaton", "Rinkah", "Hana", "Orochi", "Setsuna", "Oboro", "Kagero", "Subaki", "Saizo", "Azama", "Hayato", "Hinata", "Takumi", "Kaden", "Ryoma", "Yukimura", "Kana (M)", "Shigure", "Shiro", "Kiragi", "Asugi", "Hisame", "Siegbert", "Forrest", "Ignatius", "Percy", "Kana (F)", "Selkie", "Mitama", "Caeldori", "Rhajat", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina"],
     bff: ["Kana (M)", "Forrest", "Ignatius", "Shiro"],
     sRank: ["Corrin (F)", "Kana (F)", "Sophie", "Midori", "Velouria", "Ophelia", "Soleil", "Nina", "Mitama", "Caeldori"],
     baseHPGR: 40,
